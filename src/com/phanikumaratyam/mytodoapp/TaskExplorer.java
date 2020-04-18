@@ -3,7 +3,6 @@ package com.phanikumaratyam.mytodoapp;
 import java.util.*;
 import com.mongodb.*;
 import com.mongodb.BasicDBObjectBuilder;
-import com.mongodb.*;
 
 import javax.management.monitor.CounterMonitor;
 import java.net.UnknownHostException;
